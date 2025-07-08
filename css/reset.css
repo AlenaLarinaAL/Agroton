@@ -45,6 +45,15 @@ select {
   font: inherit;
 }
 
+/* dd {
+  margin-inline-start: 0;
+} */
+
+dl {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
 @media (favors-reduced-motion: reduce) {
 
   *,
